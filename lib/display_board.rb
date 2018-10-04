@@ -5,5 +5,5 @@ def display_board(boardState)
   puts "-----------"
   puts " #{boardState[3]} | #{boardState[4]} | #{boardState[5]} "
   puts "-----------"
-  puts " #{boardState[6]} | #{boardState[7]} |#{boardState[8]} "
+  puts " #{boardState[6]} | #{boardState[7]} | #{boardState[8]} "
 end
